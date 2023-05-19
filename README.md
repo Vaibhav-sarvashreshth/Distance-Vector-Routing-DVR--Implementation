@@ -28,7 +28,7 @@ To run the code, follow these steps:
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/Vaibhav-sarvashreshth/Distance-Vector-Routing-DVR--Implementation.git
+    git clone https://github.com/Vaibhav-sarvashreshth/Distance-Vector-Routing-DVR-Implementation.git
     ```
 
 
@@ -36,7 +36,7 @@ To run the code, follow these steps:
 2. Navigate to the repository directory:
 
     ```sh
-    cd Distance-Vector-Routing-DVR--Implementation
+    cd Distance-Vector-Routing-DVR-Implementation
     ```
 
 
